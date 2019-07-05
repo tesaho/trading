@@ -5,7 +5,7 @@ helpers for fitting options
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-import research.option_implied_yield as oiy
+import options.research.option_implied_yield as oiy
 from options.pricing.option_greeks import Option
 
 # return otm put deltas

@@ -1,7 +1,5 @@
 """
-version of Derrick C++ code
-http://bitbucket-hko.nautiluscapital.net/projects/OP/repos/nautilus.execution.option/browse/IMarketP...
-line 209-301 -> curveFitting
+polynomial curve fit
 """
 
 import numpy as np
